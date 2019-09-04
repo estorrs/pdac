@@ -1,0 +1,7 @@
+tests/data
+tests/results
+.DS_Store
+
+/cibersortx
+/data
+/results
